@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zyme", "Zyme\Zyme.vcxproj", "{961048F0-3CB9-43A2-9B6A-519B892F4684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{961048F0-3CB9-43A2-9B6A-519B892F4684}.Debug|x64.ActiveCfg = Debug|x64
+		{961048F0-3CB9-43A2-9B6A-519B892F4684}.Debug|x64.Build.0 = Debug|x64
+		{961048F0-3CB9-43A2-9B6A-519B892F4684}.Debug|x86.ActiveCfg = Debug|Win32
+		{961048F0-3CB9-43A2-9B6A-519B892F4684}.Debug|x86.Build.0 = Debug|Win32
+		{961048F0-3CB9-43A2-9B6A-519B892F4684}.Release|x64.ActiveCfg = Release|x64
+		{961048F0-3CB9-43A2-9B6A-519B892F4684}.Release|x64.Build.0 = Release|x64
+		{961048F0-3CB9-43A2-9B6A-519B892F4684}.Release|x86.ActiveCfg = Release|Win32
+		{961048F0-3CB9-43A2-9B6A-519B892F4684}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {486537E3-9727-4A0C-ACBF-2460E480EE25}
+	EndGlobalSection
+EndGlobal
